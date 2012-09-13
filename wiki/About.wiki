@@ -5,8 +5,16 @@ This project was started around March, 2012. Some of the version of AG YouTube V
 
 That time, I don’t think about to create a Google Code page for this project, until about September, 2012, this page was created by the main developer of AG YouTube Video Grabber - GaryNg. Some of the update history of AG YouTube Video Grabber is unrecorded so I can't list them. Sorry for that :(
 
-=The developer’s profile  - GaryNg=
+==The developer’s profile  - GaryNg==
 
 Born in 1998, currently was still a student in secondary school. Learnt VB6 at December of 2011, and started the AG YouTube Video Grabber’s project at March,2012. (AG is my team!). 
 
 You can know me more through my blog: [http://garyngzhongbo.blogspot.com Gary’s Zone] and I had another software download zone: [http://garyzone.tk Gary’s Software Download Zone]. 
+
+==Main Aim==
+
+This YouTube Sniffer project is aim to download the YouTube's video quickly, easily. Everyone can participate in it for developing it, all the code was written in VB6 and this project was still in baby step.
+
+I hope that this YouTube Sniffer can be used by everyone freely and open source, trying our best to make the UI be more simple and easy to use (include those computer newbie).
+
+The help file was still haven't be written.(But I think that a simple program no need a user help file, perhaps.)
