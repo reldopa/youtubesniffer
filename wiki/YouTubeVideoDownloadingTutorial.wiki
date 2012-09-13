@@ -1,0 +1,11 @@
+=*YouTube Video Downloading Tutorial*=
+
+The most easiest  way is to download a YouTube video downloading software and copy the link to it, then wait for the program to generate or download the video for you. But, you can't see how is it working and how to do that *manually*. So this tutorial is for everyone that interested in *How To Download A YouTube Video Manually*
+
+==Video==
+
+I had made a video for before I wrote this tutorial, here;s that video:
+
+<wiki:video url="http://www.youtube.com/watch?v=6K0cfBcK6nM&feature=g-upl"/>
+
+But, this video is not too detail and that's why the exist of this tutorial.
