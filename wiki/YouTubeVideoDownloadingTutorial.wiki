@@ -17,7 +17,7 @@ But, this video is not too detail and that's why the exist of this tutorial.
 ==0.Introduction==
 So, let we start our tutorial! First of all, we need a YouTube video, here I will demo with the video a just listed just now – [http://www.youtube.com/watch?v=6K0cfBcK6nM Download The YouTube Video Without Any Program] and some basic information about how to download YouTube video.
 
-===Ways to do That===
+===Ways to do It===
 There’s many ways to get the video download link:-
 
 	# By using the network sniffer(Google Chrome built-in this feature!), find out what’s the video link currently playing and remove the *range* parameters, then we can download the video.
@@ -34,7 +34,7 @@ And also, all the link was encoded using something that called *URLEncoder*, don
 
 ==Lists Of Tutorials==
 ===Video Downloading Tutorial - 1. By Using The Network Sniffer===
-====[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer YouTube? Video Downloading Tutorial - 1. By Using The Network Sniffer]====
+*[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer YouTube? Video Downloading Tutorial - 1. By Using The Network Sniffer]*
 
 Download the YouTube video by Google Chrome's built-in function.
 _Written by GaryNg at 14/9/2012_
