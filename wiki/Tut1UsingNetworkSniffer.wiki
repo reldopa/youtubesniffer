@@ -89,15 +89,15 @@ Find for the *Query String Parameters*, Google Chrome split it out and decode it
 
 I set the parameter *range* to bold for you, *range:13-1781759*, means YouTube currently was sending one of the part of the video from byte 13 to byte 1781759, have a total of 1781747 bytes, that equal to about 1.7MB. (The weird thing was, why YouTube transfer the FLV video file start from the byte 13 not the first byte? )
 
-The *signature* is unique for every video; *itags* is the quality for the video, here’s some of them:
+The *signature* is unique for every video; *itag* is the quality for the video, here’s some of them, and also I listed out the extension of each video file:
 
-	240p - itags = 5
+	240p - itag = 5 (*.flv)
 
-	360p - itags = 34
+	360p - itag = 34 (*.flv)
 
-	480p - itags = 35
+	480p - itag = 35 (*.flv)
 
-	720p - itags = 22
+	720p - itag = 22 (*.mp4)
 
 For more quality and codec can refer to YouTube on Wikipedia: 
 
