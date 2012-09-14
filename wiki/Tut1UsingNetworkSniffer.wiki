@@ -91,13 +91,13 @@ I set the parameter *range* to bold for you, *range:13-1781759*, means YouTube c
 
 The *signature* is unique for every video; *itag* is the quality for the video, here’s some of them, and also I listed out the extension of each video file:
 
-	240p - itag = 5 (*.flv)
+	240p - itag = 5 (`*`.flv)
 
-	360p - itag = 34 (*.flv)
+	360p - itag = 34 (`*`.flv)
 
-	480p - itag = 35 (*.flv)
+	480p - itag = 35 (`*`.flv)
 
-	720p - itag = 22 (*.mp4)
+	720p - itag = 22 (`*`.mp4)
 
 For more quality and codec can refer to YouTube on Wikipedia: 
 
