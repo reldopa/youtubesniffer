@@ -108,3 +108,8 @@ So, almost everything is done, just simply remove the parameter *range:*
 [http://o-o---preferred---tm-jhb1---v19---lscache4.c.youtube.com/videoplayback?algorithm=throttle-factor&burst=40&cp=U0hTTFZMTl9KSkNOM19ORlJBOllxYWZza3IwOW1j&expire=1347610050&factor=1.25&fexp=900504,909909,920917,922401,920704,912806,913419,913558,913556,925109,912706&id=e8ad1c7c170aea73&ip=219.92.138.62&ipbits=8&itag=34&keepalive=yes&key=yt1&ms=au&mt=1347585491&mv=m&signature=9910AA9B130F58E9C85B322DF5F7554EB81B584B.D2354DC538AE0F03A1A993163585110A42684952&source=youtube&sparams=algorithm,burst,cp,factor,id,ip,ipbits,itag,source,upn,expire&sver=3&upn=EnUaXolh8Ok http://o-o---preferred---tm-jhb1---v19---lscache4.c.youtube.com/videoplayback?algorithm=throttle-factor&burst=40&cp=U0hTTFZMTl9KSkNOM19ORlJBOllxYWZza3IwOW1j&expire=1347610050&factor=1.25&fexp=900504,909909,920917,922401,920704,912806,913419,913558,913556,925109,912706&id=e8ad1c7c170aea73&ip=219.92.138.62&ipbits=8&itag=34&keepalive=yes&key=yt1&ms=au&mt=1347585491&mv=m&signature=9910AA9B130F58E9C85B322DF5F7554EB81B584B.D2354DC538AE0F03A1A993163585110A42684952&source=youtube&sparams=algorithm,burst,cp,factor,id,ip,ipbits,itag,source,upn,expire&sver=3&upn=EnUaXolh8Ok]
 
 Copy to your downloader, and enjoy your video download!
+
+_Next Tutorial_
+[http://4.bp.blogspot.com/-TrII2qmXaRs/UFM-WqOX1sI/AAAAAAAAB8s/7f17IPfc_Sk/s1600/next.png http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204]
+
+<g:plusone size="medium"></g:plusone>
