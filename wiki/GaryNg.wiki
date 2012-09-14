@@ -1,0 +1,9 @@
+#labels Featured
+Born in 1998. My first learnt Batch scripting, this made me knew more about how Windows operate and what Windows can do without using the GUI.
+
+At December,2012, I learnt VB6. I don't choose VB.net because of its huge .net framework, I like "green" (or portable) program, although VB6 was almost out-of-date.
+
+Until now, VB6 is still my main developing tools, and I learnt few famous programming language such as C, and learnt AutoIt3 for fun.
+
+I had my own blog: [http://garyngzhongb.blogspot.com Gary's Zone] _The blog is in Chinese!_
+and my software download zone that I built with Dropbox: [http://garyzone.tk Gary's Software Download Zone]
