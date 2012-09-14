@@ -109,7 +109,6 @@ So, almost everything is done, just simply remove the parameter *range:*
 
 Copy to your downloader, and enjoy your video download!
 
-_Next Tutorial_
-[http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 http://4.bp.blogspot.com/-TrII2qmXaRs/UFM-WqOX1sI/AAAAAAAAB8s/7f17IPfc_Sk/s1600/next.png]
+[http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 http://4.bp.blogspot.com/-TrII2qmXaRs/UFM-WqOX1sI/AAAAAAAAB8s/7f17IPfc_Sk/s1600/next.png]_Next Tutorial_
 
 <g:plusone size="medium"></g:plusone>
