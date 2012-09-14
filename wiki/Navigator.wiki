@@ -3,6 +3,7 @@
 	* [http://code.google.com/p/youtubesniffer/wiki/About About]
 	* [http://code.google.com/p/youtubesniffer/wiki/YouTubeVideoDownloadingTutorial YouTube Video Downloading Tutorial]
 		* [http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer  Video Downloading Tutorial - 1. By Using The Network Sniffer]
+		* [http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 YouTube Video Downloading Tutorial - 2.By finding the generate_204 request]
 	* [http://code.google.com/p/youtubesniffer/source/browse/#svn%2Ftrunk Browse Code]
 	* [http://code.google.com/p/youtubesniffer/issues/list Report Bug]
 	* About GaryNg
