@@ -1,5 +1,4 @@
 #labels Featured
-
 =*YouTube Video Downloading Tutorial - 2.By finding the generate_204 request*=
 ==Table Of Contents==
 <wiki:toc max_depth="100" />
@@ -41,4 +40,7 @@ then replace the word *generate_204* to *videoplayback*,
 	http://o-o---preferred---tm-jhb1---v19---lscache4.c.youtube.com/videoplayback?ip=219.92.138.62&upn=ZrwooJCjwaw&sparams=algorithm%2Cburst%2Ccp%2Cfactor%2Cid%2Cip%2Cipbits%2Citag%2Csource%2Cupn%2Cexpire&fexp=909528%2C927000%2C913543%2C910207%2C910219%2C920917%2C922401%2C920704%2C912806%2C913419%2C913558%2C913556%2C912706&mt=1347629353&ms=au&algorithm=throttle-factor&burst=40&ipbits=8&itag=34&sver=3&signature=5CD2E6723EEAA860DC71A1C9338BD7CEF47A70F7.A33CCAA3F16DDBE5C302A96A3BC602E7FA6DD35B&mv=m&source=youtube&expire=1347653250&key=yt1&factor=1.25&cp=U0hTTFZQUV9KSkNOM19OSlVDOjFwajZCZ3pXMlVV&id=e8ad1c7c170aea73
 		
 then open up your downloader, and enjoy you video!
+
+[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer http://3.bp.blogspot.com/-72mDmjh1MXk/UFM-YRWy5gI/AAAAAAAAB80/bDa1rdfr_Ps/s1600/previous.png]_Previous Tutorial_
+
 <g:plusone size="medium"></g:plusone>
