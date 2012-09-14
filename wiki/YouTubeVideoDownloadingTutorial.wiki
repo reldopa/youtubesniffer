@@ -33,10 +33,16 @@ Before I forgot,  all the YouTube video download link always consist the word *v
 And also, all the link was encoded using something that called *URLEncoder*, don’t worry it can be decoded! Here I found some tools for decode an encoded URL:  [http://urlendecoder.tk/ http://urlendecoder.tk]
 ----
 ==Lists Of Tutorials==
-===Video Downloading Tutorial - 1. By Using The Network Sniffer===
+===YouTube Video Downloading Tutorial - 1. By Using The Network Sniffer===
 *[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer YouTube? Video Downloading Tutorial - 1. By Using The Network Sniffer]*
 
 Download the YouTube video by Google Chrome's built-in function.
+_Written by GaryNg at 14/9/2012_
+
+===YouTube Video Downloading Tutorial - 2.By finding the generate_204 request===
+*[http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 YouTube Video Downloading Tutorial - 2.By finding the generate_204 request]*
+
+Download the YouTube video by finding the generate_204 request with Google Chrome
 _Written by GaryNg at 14/9/2012_
 
 
