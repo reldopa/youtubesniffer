@@ -11,9 +11,9 @@ Born in 1998, currently was still a student in secondary school. Learnt VB6 at D
 
 You can know me more through my blog: [http://garyngzhongbo.blogspot.com Gary’s Zone] and I had another software download zone: [http://garyzone.tk Gary’s Software Download Zone]. 
 
-==Main Aim==
+==Main Target==
 
-This YouTube Sniffer project is aim to download the YouTube's video quickly, easily. Everyone can participate in it for developing it, all the code was written in VB6 and this project was still in baby step.
+This YouTube Sniffer project is targeted to download the YouTube's video quickly, easily. Everyone can participate in it for developing it, all the code was written in VB6 and this project was still in baby step.
 
 I hope that this YouTube Sniffer can be used by everyone freely and open source, trying our best to make the UI be more simple and easy to use (include those computer newbie).
 
