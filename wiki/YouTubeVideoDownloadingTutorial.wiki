@@ -11,11 +11,19 @@ I had made a video for before I wrote this tutorial, here’s that video:
 But, this video is not too detail and that's why the exist of this tutorial.
 ----------
 
-So, let we start our tutorial! First of all, we need a YouTube video, here I will demo with the video a just listed just now – [http://www.youtube.com/watch?v=6K0cfBcK6nM Download The YouTube Video Without Any Program].
+So, let we start our tutorial! First of all, we need a YouTube video, here I will demo with the video a just listed just now – [http://www.youtube.com/watch?v=6K0cfBcK6nM Download The YouTube Video Without Any Program] and some basic information about how to download YouTube video.
 
 There’s many ways to get the video download link:-
 
-# By using the network sniffer(Google Chrome built-in this feature!), find out what’s the video link currently playing and remove the *range* parameters, then we can download the video.
-# By finding the *generate_204* request in the packets by using the network sniffer too, the generate_204 request will also consist the parameters for currently playing video.
-# By requesting the video information with *get_video_info *, what I currenty knew was, just set the parameter  *video_id=XXX*, YouTube will give us many of that video information, but not all video can.
-# Here’s the most complex one, analyze that YouTube video’s webpage,  and find the video download link, but this way was always get the accurate info as all the information we want was in the webpage!
+	# By using the network sniffer(Google Chrome built-in this feature!), find out what’s the video link currently playing and remove the *range* parameters, then we can download the video.
+	# By finding the *generate_204* request in the packets by using the network sniffer too, the generate_204 request will also consist the parameters for currently playing video.
+	# By requesting the video information with *get_video_info *, what I currenty knew was, just set the parameter  *video_id=XXX*, YouTube will give us many of that video information, but not all video can.
+	# Here’s the most complex one, analyze that YouTube video’s webpage,  and find the video download link, but this way was always get the accurate info as all the information we want was in the webpage!
+
+Good news is, I will show it at here one by one!
+
+Before I forgot,  all the YouTube video download link always consist the word *videoplayback*, so when we found the request, and we search for the videoplayback word, then we can download the video!
+
+And also, all the link was encoded using something that called *URLEncoder*, don’t worry it can be decoded! Here I found some tools for decode an encoded URL:  [http://urlendecoder.tk/ http://urlendecoder.tk]
+
+#sidebar TableOfContents
