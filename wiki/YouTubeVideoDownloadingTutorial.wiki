@@ -4,8 +4,18 @@ The most easiest  way is to download a YouTube video downloading software and co
 
 ==Video==
 
-I had made a video for before I wrote this tutorial, here;s that video:
+I had made a video for before I wrote this tutorial, here’s that video:
 
 <wiki:video url="http://www.youtube.com/watch?v=6K0cfBcK6nM&feature=g-upl"/>
 
 But, this video is not too detail and that's why the exist of this tutorial.
+----------
+
+So, let we start our tutorial! First of all, we need a YouTube video, here I will demo with the video a just listed just now – [http://www.youtube.com/watch?v=6K0cfBcK6nM Download The YouTube Video Without Any Program].
+
+There’s many ways to get the video download link:-
+
+# By using the network sniffer(Google Chrome built-in this feature!), find out what’s the video link currently playing and remove the *range* parameters, then we can download the video.
+# By finding the *generate_204* request in the packets by using the network sniffer too, the generate_204 request will also consist the parameters for currently playing video.
+# By requesting the video information with *get_video_info *, what I currenty knew was, just set the parameter  *video_id=XXX*, YouTube will give us many of that video information, but not all video can.
+# Here’s the most complex one, analyze that YouTube video’s webpage,  and find the video download link, but this way was always get the accurate info as all the information we want was in the webpage!
