@@ -1,0 +1,11 @@
+#labels Featured
+=*Credits*=
+==Table Of Contents==
+<wiki:toc max_depth="100" />
+
+
+==Special Thanks==
+	* Lee Haocheng - _Designed the logo for the AG YouTube Video Grabber and also this Google Code page!_
+	* [http://vbraymai97.blogspot.com/ RayMai] - _He found many bugs in this program!_
+	
+	
