@@ -1,8 +1,4 @@
 #labels Featured
-=*YouTube Sniffer*=
-==Table Of Content==
-<wiki:toc max_depth="100" />
- 
   * [http://code.google.com/p/youtubesniffer/ YouTube Sniffer Home Page]
   * [http://code.google.com/p/youtubesniffer/wiki/About About]
   * [http://code.google.com/p/youtubesniffer/wiki/YouTubeVideoDownloadingTutorial YouTube Video Downloading Tutorial]
