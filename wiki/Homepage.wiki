@@ -1,5 +1,5 @@
 =*YouTube Sniffer*=
-==Table Of Content==
+==Table Of Contents==
 <wiki:toc max_depth="100" />
 
 This program was targeted to download the YouTube's video, before this was the _AG YouTube Video Grabber_, but I messed up by the untidy source code, so I decided to rewrite all using VB6.
