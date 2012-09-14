@@ -1,0 +1,39 @@
+=*YouTube Sniffer*=
+==Table Of Content==
+<wiki:toc max_depth="100" />
+
+This program was targeted to download the YouTube's video, before this was the _AG YouTube Video Grabber_, but I messed up by the untidy source code, so I decided to rewrite all using VB6.
+
+All of the release of YouTube Video Sniffer will be post on my blog: http://garyngzhongbo.blogspot.com and here will also release the latest version of *source code*.
+
+
+The latest AG YouTube Video Grabber was here:
+http://garyngzhongbo.blogspot.com/2012/05/vb6youtube-video-grabber.html
+
+==*Updates*==
+Update: AG YouTube Video Grabber is also under this project.
+Update: I;m not too good at Hooking WebBrowser's send function, and they always crashed, so this project was been cancelled.
+
+==*How?*==
+*What I trying to do was:*
+
+Hook IE's webbrowser's send function, and analyze the send's function buffer for getting the video download link
+
+*I studied how YouTube transfer it's file and what I got was:*
+
+YouTube transfer the video buffer in pieces, in 360p (flv format), one piece of video file was about 1.7MB, when it reach this size, YouTube will regenerate a new link for another 1.7MB buffer for currently playing video file, this will repeat and repeat until the whole video file is watched or downloaded
+
+And by looking through the video's link that YouTube transfer its file, YouTube control which pieces of that video have to be transfer by the parameters *range=xxx-xxx*, so we got a way:
+
+1. Get the video link that YouTube used to transfer the video file
+
+2. Just simply remove the parameter *range* and YouTube will transfer the whole video file to the client, which mean, we are downloading the whole file.
+
+So, I wrote this program to get the video download link, and that's not too easy to do that, every YouTube link has a unique *signature* parameters, which make that download all the format of that video by just getting one of their link is impossible (unless we know the signature's algorithm). But I found another link that name *generate_204*, it contain all the parameters of the video that the user currently playing, but we too couldn't get the other video format download by the only generate_204's parameters (troublesome signature parameter!)
+
+There's another way that I know - YouTube will get the video info by using the *get_video_info* file, but we can't get all the video that contain copyrighted info (such as some official video, their channel will always have the *VEVO* word, but not most of them was.).
+
+==Tutorials==
+I wrote some tutorial for downloading the YouTube video, you can visit this wiki page for more details:http://code.google.com/p/youtubesniffer/wiki/YouTubeVideoDownloadingTutorial
+
+<g:plusone size="medium"></g:plusone>
