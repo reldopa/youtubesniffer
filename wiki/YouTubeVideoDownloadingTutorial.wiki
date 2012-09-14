@@ -5,7 +5,7 @@
 
 The most easiest  way is to download a YouTube video downloading software and copy the link to it, then wait for the program to generate or download the video for you. But, you can't see how is it working and how to do that *manually*. So this tutorial is for everyone that interested in *How To Download A YouTube Video Manually*
 
-===Video===
+==Video==
 
 I had made a video for before I wrote this tutorial, here’s that video:
 
@@ -14,9 +14,10 @@ I had made a video for before I wrote this tutorial, here’s that video:
 But, this video is not too detail and that's why the exist of this tutorial.
 ----------
 
-===0.Introduction===
+==0.Introduction==
 So, let we start our tutorial! First of all, we need a YouTube video, here I will demo with the video a just listed just now – [http://www.youtube.com/watch?v=6K0cfBcK6nM Download The YouTube Video Without Any Program] and some basic information about how to download YouTube video.
 
+===Ways to do That===
 There’s many ways to get the video download link:-
 
 	# By using the network sniffer(Google Chrome built-in this feature!), find out what’s the video link currently playing and remove the *range* parameters, then we can download the video.
@@ -28,9 +29,10 @@ Good news is, I will show it at here one by one!
 
 Before I forgot,  all the YouTube video download link always consist the word *videoplayback*, so when we found the request, and we search for the videoplayback word, then we can download the video!
 
+===Tools===
 And also, all the link was encoded using something that called *URLEncoder*, don’t worry it can be decoded! Here I found some tools for decode an encoded URL:  [http://urlendecoder.tk/ http://urlendecoder.tk]
 
-===Lists Of Tutorials===
+==Lists Of Tutorials==
 
 
 <g:plusone size="medium"></g:plusone>
