@@ -1,9 +1,0 @@
-#sidebar TableOfContents
-  * [http://www.google.com HOWTO articles]
-    * [http://www.google.com Web security]
-    * [http://www.google.com DOM manipulation]
-    * [http://www.google.com CSS and style]
-    * [http://www.google.com Tips and tricks]
-  * [http://www.google.com DOM reference]
-  * [http://www.google.com HTML reference]
-  * [http://www.google.com CSS reference]
