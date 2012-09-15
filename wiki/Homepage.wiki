@@ -38,3 +38,7 @@ There's another way that I know - YouTube will get the video info by using the *
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://garyngzhongbo.blogspot.com/feeds/posts/default?redirect=false"  width="780"  height="700" border="0" up_showaddbutton="0"/>
 ----
 <g:plusone size="medium"></g:plusone>
+----
+http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
+
+YouTube Sniffer Project by [http://garyngzhongbo.blogspot.com/ Gary Ng] is licensed under a [http://creativecommons.org/licenses/by-nc/2.5/my/deed.en_US Creative Commons Attribution-NonCommercial 2.5 Malaysia License.]
