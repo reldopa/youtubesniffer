@@ -32,5 +32,9 @@ And by looking through the video's link that YouTube transfer its file, YouTube 
 So, I wrote this program to get the video download link, and that's not too easy to do that, every YouTube link has a unique *signature* parameters, which make that download all the format of that video by just getting one of their link is impossible (unless we know the signature's algorithm). But I found another link that name *generate_204*, it contain all the parameters of the video that the user currently playing, but we too couldn't get the other video format download by the only generate_204's parameters (troublesome signature parameter!)
 
 There's another way that I know - YouTube will get the video info by using the *get_video_info* file, but we can't get all the video that contain copyrighted info (such as some official video, their channel will always have the *VEVO* word, but not most of them was.).
+----
+==*My Blog*==
 
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://garyngzhongbo.blogspot.com/feeds/posts/default?redirect=false"  width="780"  height="700" border="0" up_showaddbutton="0"/>
+----
 <g:plusone size="medium"></g:plusone>
