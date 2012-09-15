@@ -65,3 +65,7 @@ Download the YouTube video in other way!
 _Written by GaryNg at 15/9/2012_
 ----
 <g:plusone size="medium"></g:plusone>
+----
+http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
+
+YouTube Sniffer Project by [http://garyngzhongbo.blogspot.com/ Gary Ng] is licensed under a [http://creativecommons.org/licenses/by-nc/2.5/my/deed.en_US Creative Commons Attribution-NonCommercial 2.5 Malaysia License.]
