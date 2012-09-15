@@ -42,5 +42,7 @@ then replace the word *generate_204* to *videoplayback*,
 then open up your downloader, and enjoy you video!
 -----
 _[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer <<<Previous Tutorial]_
+
+_[http://code.google.com/p/youtubesniffer/wiki/Tut3ByGetVideoInfo Next Tutorial>>>]_
 -----
 <g:plusone size="medium"></g:plusone>
