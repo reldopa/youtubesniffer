@@ -39,6 +39,7 @@ I wrote some simple tool for this series of tutorial: [http://dl.dropbox.com/u/4
           * UTF8 Decode mode - _For decoding the URL that contains Unicode characters, NOT all character can be displayed by the program (such as Korean)_
           * ASCII Decode mode - _For decoding the URL that only contains ASCII_
     # get_video_info
+    # split video download link
 
 ----
 ==Lists Of Tutorials==
