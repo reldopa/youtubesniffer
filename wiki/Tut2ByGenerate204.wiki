@@ -46,3 +46,7 @@ _[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer <<<Previo
 _[http://code.google.com/p/youtubesniffer/wiki/Tut3ByGetVideoInfo Next Tutorial>>>]_
 -----
 <g:plusone size="medium"></g:plusone>
+----
+http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
+
+YouTube Sniffer Project by [http://garyngzhongbo.blogspot.com/ Gary Ng] is licensed under a [http://creativecommons.org/licenses/by-nc/2.5/my/deed.en_US Creative Commons Attribution-NonCommercial 2.5 Malaysia License.]
