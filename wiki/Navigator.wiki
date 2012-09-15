@@ -13,3 +13,7 @@
 		* [http://garyzone.tk Gary's Software Download Zone]
 		* [http://groups.google.com/group/garyzone Gary's Zone Google Forum]
 	* [http://code.google.com/p/youtubesniffer/wiki/Credits Credits]
+----
+http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
+
+YouTube Sniffer Project by [http://garyngzhongbo.blogspot.com/ Gary Ng] is licensed under a [http://creativecommons.org/licenses/by-nc/2.5/my/deed.en_US Creative Commons Attribution-NonCommercial 2.5 Malaysia License.]
