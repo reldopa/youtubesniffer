@@ -18,3 +18,7 @@ This YouTube Sniffer project is targeted to download the YouTube's video quickly
 I hope that this YouTube Sniffer can be used by everyone freely and open source, trying our best to make the UI be more simple and easy to use (include those computer newbie).
 
 The help file was still haven't be written.(But I think that a simple program no need a user help file, perhaps.)
+----
+http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
+
+YouTube Sniffer Project by [http://garyngzhongbo.blogspot.com/ Gary Ng] is licensed under a [http://creativecommons.org/licenses/by-nc/2.5/my/deed.en_US Creative Commons Attribution-NonCommercial 2.5 Malaysia License.]
