@@ -1,0 +1,40 @@
+#labels Featured
+=*YouTube Video Downloading Tutorial - 3. By requesting the video information with get_video_info*=
+==Table Of Contents==
+<wiki:toc max_depth="100" />
+------
+==Introduction==
+
+This tutorial is slightly different from [http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer tutorial 1] and [http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 tutorial 2], in the previous tutorial, I use the tool that built-in in Google Chrome, in this tutorial, we try a different way!
+
+
+YouTube provide a php file *get_video_info* to get a video's information, what we have to do is just set the parameter *video_id* and navigate to that link, the browser will download that file and we can open that downloaded file with Notepad (or Notepad++), all the information we want was in there!
+
+By the way, I suggest not to use this methods because it cannot get all video's information and video download link, this tutorial written for your extraformation.
+------
+==Start==
+First, you need a video (I will use my video [http://www.youtube.com/watch?v=6K0cfBcK6nM Download The YouTube Video Without Any Program] as demonstration), copy the string after the parameter *v=*, for example the video http://www.youtube.com/watch?v=6K0cfBcK6nM, the string after the parameter is *6K0cfBcK6nM*
+
+Then replace the *xxxx* in *http://youtube.com/get_video_info?video_id=xxxx* to the video's ID!
+
+Still remember the tools I provide? -- [http://dl.dropbox.com/u/43619472/OtherSoft/YouTubeSniffer_src_bin.zip YouTube Sniffer Tools], if you can't get the video id correct, you can use it! Download and open the program, paste the video link in the textbox beside the label "YouTube Video Link:", then press *Enter*.
+
+[http://2.bp.blogspot.com/-SWapRqb-Ao8/UFQigUoruTI/AAAAAAAAB9I/E2qxTkml06s/s1600/Greenshot_2012-09-15_14-37-07.png]
+
+The video's ID is there! The get_video_info link, too!
+
+So, the get_video_info link for my video is:http://youtube.com/get_video_info?video_id=6K0cfBcK6nM, open up your browser and navigate to that link, your internet browser will pop up to download the file, download it. After downloaded, open the file with Notepad.
+
+[http://2.bp.blogspot.com/-gjBt-n1yKi4/UFQlsKd8a5I/AAAAAAAAB9c/vu5LoLOi-vA/s1600/New+Tab+-+360Chrome_2012-09-15_14-52-07.png]
+
+_Download with your internet browser_
+
+http://1.bp.blogspot.com/-tftHW_piMgU/UFQmQQB4nYI/AAAAAAAAB9k/igGKgYP8DHA/s1600/get_video_info+-+Notepad_2012-09-15_14-54-20.png
+
+_Open with your notepad (or any other editor)_
+
+Then decode it with my YouTube Sniffer Tools (or you can use http://urlendecoder.tk)
+
+
+
+http://youtube.com/get_video_info?video_id=4GpJHF0WyAE
