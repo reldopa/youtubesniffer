@@ -31,4 +31,9 @@
 ===14/9/2012===	
 	- Written *[http://code.google.com/p/youtubesniffer/wiki/Tut3ByGetVideoInfo YouTube Video Downloading Tutorial - 3]*
 	
+	- Applied Creative Common License
 			
+----
+http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
+
+YouTube Sniffer Project by [http://garyngzhongbo.blogspot.com/ Gary Ng] is licensed under a [http://creativecommons.org/licenses/by-nc/2.5/my/deed.en_US Creative Commons Attribution-NonCommercial 2.5 Malaysia License.]
