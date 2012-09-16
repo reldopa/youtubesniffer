@@ -64,6 +64,13 @@ Download the YouTube video in other way!
 
 _Written by GaryNg at 15/9/2012_
 ----
+===YouTube Video Donwloading Tutorial - 4. By Analyzing The Video's Webpage Manually===
+-->[http://code.google.com/p/youtubesniffer/wiki/Tut4ByAnalyzingTheWebpage YouTube Video Donwloading Tutorial - 4. By Analyzing The Video's Webpage Manually]	
+
+Download the video by analyzing the video's webpage manually!
+
+_Written by GaryNg at 15/9/2012_
+----
 <g:plusone size="medium"></g:plusone>
 ----
 http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
