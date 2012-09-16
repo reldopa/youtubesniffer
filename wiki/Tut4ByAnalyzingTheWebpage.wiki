@@ -1,0 +1,40 @@
+=*YouTube Video Donwloading Tutorial - 4. By Analyzing The Video's Webpage Manually*=
+==Table Of Contents==
+<wiki:toc max_depth="100" />
+------
+==Introduction==
+
+Here is the another tutorial from me, previously, I thought you all how to download the YouTube video by the network sniffer[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer Tutorial 1] [http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 Tutorial 2] in Google Chrome, and by using the function that provided by YouTube [http://code.google.com/p/youtubesniffer/wiki/Tut3ByGetVideoInfo Tutorial 3].
+
+This tutorial will teach you how to get the video's download link manually by analyzing the video's webpage, it is quite difficult and complicated because you have to search through the whole webpage's source code and find for the video's download link. This method is also what I shown in my video - 
+
+<wiki:video url="http://www.youtube.com/watch?v=6K0cfBcK6nM"/>
+
+----
+
+===Preparation===
+	* An internet browser that can view a webpage's source code (in this case, I use Google Chrome)
+	* An URL Decoder - You can download my [http://dl.dropbox.com/u/43619472/OtherSoft/YouTubeSniffer_src_bin.zip YouTube Sniffer Tools] or [http://urlendecoder.tk this online URL Encode/Decoder]
+	* Notepad or any other editor (http://notepad-plus-plus.org/ Notepad++] is recommended)
+	* YouTube Video (my video - *[http://www.youtube.com/watch?v=6K0cfBcK6nM Download The YouTube Video Without Any Program]* for demonstration again!)
+
+----
+
+==Start==
+
+Open your internet browser, navigate to your YouTube video's link, then view the webpage *source code*
+
+[http://3.bp.blogspot.com/-eBhDO4NbUxg/UFVxO0tXWGI/AAAAAAAAB-8/tXBQ6Ur8mc4/s1600/Download+YouTube+Video+Without+Any+Program+-+YouTube+-+360Chrome_2012-09-16_14-25-23.png]
+_Right click in a webpage, select view page source, then you can view the webpage source code in Google Chrome_
+
+Where does YouTube store the video information? YouTube video was played by *Flash Player*, the extension of Flash Player is *swf*! So search for *swf* in the webpage source code, we found many of them, the *swf* right after the *function* is what we want!
+
+[http://3.bp.blogspot.com/-BJodbIftwBg/UFV8lFztW9I/AAAAAAAAB_Q/TYKHUDctCVE/s1600/view-source_www.youtube.png]
+_The whole string after *var swf =* consist the video download link and a bundle of its information!_
+
+Copy the whole content in *var swf =*, then use [http://dl.dropbox.com/u/43619472/OtherSoft/YouTubeSniffer_src_bin.zip YouTube Sniffer Tools] to decode it with suitable mode.
+[http://3.bp.blogspot.com/-k8WAYTVqD58/UFWBFPVEiaI/AAAAAAAAB_s/hu5hYS4nk7Y/s1600/view-source_www.youtube.png]
+
+[http://3.bp.blogspot.com/-zxTxcsZxQ-E/UFWBEsF7ULI/AAAAAAAAB_k/OctXwB6-hxE/s1600/YouTube+Sniffer+Tools_2012-09-16_15-34-20.png]
+
+=*YouTube Won't let use to download the video at 16/9/2012, so this tutorial was pausing until YouTube let use to download it.*=
