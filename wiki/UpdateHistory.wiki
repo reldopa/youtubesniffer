@@ -28,11 +28,12 @@
 	
 	- Wrote *[http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 YouTube Video Downloading Tutorial - 2]*
 	
-===14/9/2012===	
+===15/9/2012===	
 	- Written *[http://code.google.com/p/youtubesniffer/wiki/Tut3ByGetVideoInfo YouTube Video Downloading Tutorial - 3]*
 	
 	- Applied Creative Common License
-	
+
+===16/9/2012===
 	- Wrote [http://code.google.com/p/youtubesniffer/wiki/Tut4ByAnalyzingTheWebpage YouTube Video Donwloading Tutorial - 4. By Analyzing The Video's Webpage Manually]	
 
 ----
