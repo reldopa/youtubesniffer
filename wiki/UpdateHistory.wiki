@@ -24,15 +24,17 @@
 	
 	- Added sidebar for wiki pages
 	
-	- Written *[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer YouTube Video Downloading Tutorial - 1]*
+	- Wrote *[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer YouTube Video Downloading Tutorial - 1]*
 	
-	- Written *[http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 YouTube Video Downloading Tutorial - 2]*
+	- Wrote *[http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 YouTube Video Downloading Tutorial - 2]*
 	
 ===14/9/2012===	
 	- Written *[http://code.google.com/p/youtubesniffer/wiki/Tut3ByGetVideoInfo YouTube Video Downloading Tutorial - 3]*
 	
 	- Applied Creative Common License
-			
+	
+	- Wrote [http://code.google.com/p/youtubesniffer/wiki/Tut4ByAnalyzingTheWebpage YouTube Video Donwloading Tutorial - 4. By Analyzing The Video's Webpage Manually]	
+
 ----
 http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
 
