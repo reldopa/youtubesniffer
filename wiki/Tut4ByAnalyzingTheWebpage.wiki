@@ -37,4 +37,4 @@ Copy the whole content in *var swf =*, then use [http://dl.dropbox.com/u/4361947
 
 [http://3.bp.blogspot.com/-zxTxcsZxQ-E/UFWBEsF7ULI/AAAAAAAAB_k/OctXwB6-hxE/s1600/YouTube+Sniffer+Tools_2012-09-16_15-34-20.png]
 
-=*YouTube Won't let use to download the video at 16/9/2012, so this tutorial was pausing until YouTube let use to download it.*=
+=*YouTube Won't let us to download the video at 16/9/2012, so this tutorial was pausing until YouTube let use to download it.*=
