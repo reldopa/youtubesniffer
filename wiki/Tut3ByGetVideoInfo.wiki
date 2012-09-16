@@ -59,6 +59,7 @@ If your downloaded *get_video_info* file contains the error(or no download link 
 [http://1.bp.blogspot.com/-woNPBqVeLIU/UFRD2T4ojrI/AAAAAAAAB-o/pHh20C76big/s1600/get_video_info+(1)+-+Notepad_2012-09-15_16-58-44.png]
 -----
 _[http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 <<<Previous Tutorial]_
+_[http://code.google.com/p/youtubesniffer/wiki/Tut4ByAnalyzingTheWebpage Next Tutorial>>>]_
 -----
 <g:plusone size="medium"></g:plusone>
 ----
