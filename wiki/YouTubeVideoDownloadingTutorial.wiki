@@ -27,4 +27,61 @@ There’s many methods to get the video download link:-
 
 Good news is, I will show it at here one by one!
 
-Before I forgot,  all the YouTube video download link always consist the word *videoplayback*, so when we found 
+Before I forgot,  all the YouTube video download link always consist the word *videoplayback*, so when we found Before I forgot, all the YouTube video download link always consist the word *videoplayback*, so when we found the request, and we search for the videoplayback word, then we can download the video!
+----
+===Tools===
+And also, all the link was encoded using something that called *URLEncoder*, don’t worry it can be decoded! Here I found some tools for decode an encoded URL:  [http://urlendecoder.tk/ http://urlendecoder.tk]
+
+I wrote some simple tool for this series of tutorial: [http://dl.dropbox.com/u/43619472/OtherSoft/YouTubeSniffer_src_bin.zip YouTube Sniffer Tools (With source code, written in VB6)]
+
+*Function*
+
+    ~~`# URL Decoder with two modes:-`~~
+    ~~          `* UTF8 Decode mode - _For decoding the URL that contains Unicode characters, NOT all character can be displayed by the program (such as Korean)_`~~
+    ~~          `* ASCII Decode mode - _For decoding the URL that only contains ASCII_`~~
+    # URL Decoder in UTF8 Mode
+    # get_video_info
+    # split video download link (two mode)
+----
+
+==Lists Of Tutorials==
+===YouTube Video Downloading Tutorial - 1. By Using The Network Sniffer===
+-->*[http://code.google.com/p/youtubesniffer/wiki/Tut1UsingNetworkSniffer YouTube? Video Downloading Tutorial - 1. By Using The Network Sniffer]*
+
+Download the YouTube video by Google Chrome's built-in function.
+
+_Written by GaryNg at 14/9/2012_
+-----
+===YouTube Video Downloading Tutorial - 2.By finding the generate_204 request===
+-->*[http://code.google.com/p/youtubesniffer/wiki/Tut2ByGenerate204 YouTube Video Downloading Tutorial - 2.By finding the generate_204 request]*
+
+Download the YouTube video by finding the generate_204 request with Google Chrome
+
+_Written by GaryNg at 14/9/2012_
+-----
+===YouTube Video Downloading Tutorial - 3. By requesting the video information with get_video_info===
+-->*[http://code.google.com/p/youtubesniffer/wiki/Tut3ByGetVideoInfo YouTube Video Downloading Tutorial - 3. By requesting the video information with get_video_info]*
+
+Download the YouTube video in other way!
+
+_Written by GaryNg at 15/9/2012_
+----
+===YouTube Video Downloading Tutorial - 4. By analyzing the video webpage ===
+-->*[http://code.google.com/p/youtubesniffer/wiki/Tut3ByGetVideoInfo YouTube Video Downloading Tutorial - 3. By requesting the video information with get_video_info]*
+
+Download the YouTube video in other way!
+
+_Written by GaryNg at 15/9/2012_
+-----
+===YouTube Video Donwloading Tutorial - 4. By Analyzing The Video's Webpage Manually===
+-->[http://code.google.com/p/youtubesniffer/wiki/Tut4ByAnalyzingTheWebpage YouTube Video Donwloading Tutorial - 4. By Analyzing The Video's Webpage Manually]
+
+Download the video by analyzing the video's webpage manually!
+
+_Written by GaryNg at 15/9/2012_
+----
+<g:plusone size="medium"></g:plusone>
+----
+http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
+
+YouTube Sniffer Project by [http://garyngzhongbo.blogspot.com/ Gary Ng] is licensed under a [http://creativecommons.org/licenses/by-nc/2.5/my/deed.en_US Creative Commons Attribution-NonCommercial 2.5 Malaysia License.]
