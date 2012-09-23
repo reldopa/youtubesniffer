@@ -1,4 +1,3 @@
-#labels Featured
 =*YouTube Sniffer*=
 
 ==Table Of Content==
