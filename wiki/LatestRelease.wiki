@@ -3,7 +3,9 @@
 ==Table Of Contents==
 <wiki:toc max_depth="100" />
 -----
-==*22/9/2012*==
+==*AG YouTube Grabber Update History*==
+
+===*22/9/2012*===
 >Build 1.10.446
 
 *Update History*
