@@ -14,7 +14,10 @@ http://garyngzhongbo.blogspot.com/2012/05/vb6youtube-video-grabber.html
 =*Tutorials*=
 I wrote some tutorial for downloading the YouTube video, you can visit this wiki page for more details:*[http://code.google.com/p/youtubesniffer/wiki/YouTubeVideoDownloadingTutorial]*
 
-==*How?*==
+=*Latest Release For Download*=
+See here --> *[http://code.google.com/p/youtubesniffer/wiki/LatestRelease Latest Release]*
+
+=*How?*=
 *What I trying to do was:*
 
 Hook IE's webbrowser's send function, and analyze the send's function buffer for getting the video download link
