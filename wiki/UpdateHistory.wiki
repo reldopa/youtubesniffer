@@ -36,6 +36,10 @@
 ===16/9/2012===
 	- Wrote [http://code.google.com/p/youtubesniffer/wiki/Tut4ByAnalyzingTheWebpage YouTube Video Donwloading Tutorial - 4. By Analyzing The Video's Webpage Manually]	
 
+===9/11/2012===
+	- Grabber rewritten in C# 2010!
+
+
 ----
 http://i.creativecommons.org/l/by-nc/2.5/my/88x31.png
 
